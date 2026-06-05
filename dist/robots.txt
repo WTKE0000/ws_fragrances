@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ws-perfumes.vercel.app/sitemap.xml
